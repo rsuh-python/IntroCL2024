@@ -24,4 +24,6 @@
 
 ====
 
-Контрольная работа
+Контрольная работа: **дедлайн 25.12.2024**
+
+Баллы: [таблица](https://docs.google.com/spreadsheets/d/18jwNa-0aVXHLUmCt6Uxw1BNtvMxJKHMqn7VwMC0s2XA/edit?usp=sharing)
